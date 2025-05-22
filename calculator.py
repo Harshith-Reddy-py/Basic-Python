@@ -1,6 +1,6 @@
 a = int(input("Give one Number: "))
-b = int(input("Give another number: "))
 c = input("Give the operation to be performed(+,-,*,/): ")
+b = int(input("Give another number: "))
 if   c == "+":
         print(f"The sum is:{a+b}")
 elif c == "-":
